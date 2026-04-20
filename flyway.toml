@@ -1,0 +1,11 @@
+# flyway.toml
+[flyway]
+locations = ["filesystem:sql"]
+schemas = ["sigebio"]
+defaultSchema = "sigebio"
+cleanDisabled = true
+
+# Ajusta estos valores a tu entorno
+url = "jdbc:postgresql://localhost:5432/sigebio"
+user = "postgres"
+password = "Ab12345678/"
