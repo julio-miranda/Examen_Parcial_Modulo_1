@@ -10,7 +10,7 @@ Repositorio base para el examen práctico de PostgreSQL + Flyway + Git/GitHub.
 - `sql/V4__Equipment_Maintenance.sql`
 - `sql/V5__Seed_Data.sql`
 - `docs/ERD.png`
-- `flyway.toml.example`
+- `flyway.conf`
 
 ## Modelo lógico resumido
 
